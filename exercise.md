@@ -52,7 +52,7 @@ Medium‑term labor‑market exposure (macro evidence).
 - High‑volume customer support that is largely scriptable.  
 - Repetitive content generation without domain expertise.
 
-**Lower exposure / likely complemented:  **
+**Lower exposure / likely complemented:**
 - Roles with complex human interaction (healthcare, education, management).  
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
@@ -119,7 +119,7 @@ AI will **take parts of many jobs** and **create parts of new jobs**. Some roles
 
 ---
 
-#**Endnotes (inline citations)**
+**Endnotes (inline citations)**
 
 [^nber]: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
 [^noyzhang]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
