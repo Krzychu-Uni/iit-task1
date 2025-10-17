@@ -28,7 +28,7 @@ A good rule of thumb:
 
 <h1>2) What the best recent evidence says</h1>
 
-Short‑term productivity effects (micro evidence).  
+**Short‑term productivity effects (micro evidence).**
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased **issues resolved per hour by ~14%**, with the **biggest gains for the least‑experienced agents**—and better customer sentiment.[^nber]  
 - A preregistered experiment with 444 professionals on writing tasks showed time to **complete fell ~37%** and **quality rose ~0.4 SD** with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
 
